@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iryna-Chastukhina
-- 👀 I’m interested in HTMLS& CSS3,  Java Script, Postman
+- 👀 I’m interested in HTML5& CSS3,  Java Script, Postman
 - 📫 How to reach me : ichastookhina@gmail.com
 
   
